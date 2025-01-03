@@ -1,1 +1,1 @@
-# crypto_research_assistant
+# market_research_assistant
